@@ -1,0 +1,4 @@
+#Mon Nov 26 22:05:29 IST 2018
+base.0=/Projects/NewsUpdate/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
